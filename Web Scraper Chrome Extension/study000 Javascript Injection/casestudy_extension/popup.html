@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>AI Web Scraper</title>
+    <style>
+      body { font-family: sans-serif; width: 320px; padding: 12px; }
+      button { background: #4285f4; color: white; border: none; border-radius: 6px; padding: 8px 12px; cursor: pointer; }
+      button:hover { background: #3367d6; }
+      pre { margin-top: 12px; white-space: pre-wrap; background: #f7f7f7; padding: 8px; border-radius: 6px; max-height: 200px; overflow: auto; }
+    </style>
+  </head>
+  <body>
+    <h3>AI Web Scraper</h3>
+    <button id="scrapeBtn">Scrape Current Page</button>
+    <pre id="output">Click the button to begin scraping.</pre>
+
+    <!-- Hidden iframe sandbox -->
+    <iframe id="sandbox" src="sandbox.html" style="display:none;"></iframe>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

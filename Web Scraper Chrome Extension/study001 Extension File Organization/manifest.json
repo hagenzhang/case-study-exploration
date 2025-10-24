@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Random Color & Number Generator",
+  "version": "1.0",
+  "description": "A Chrome extension that generates random colors and numbers",
+  "permissions": [
+    "activeTab"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Random Generator"
+  }
+}
