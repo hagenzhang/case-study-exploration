@@ -1,0 +1,799 @@
+[
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4398896-flowers-loft\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42842746-fight-me-irl-at-everything-but-rock-and-roll-is-a-lie-rotukunroruyi-wai-haquan-bu-xu\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"//tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=nav-tourbox-upsell-visitor\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42812231-islandman-at-shibuya-cyclone\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/genre/pop\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/news\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42842576-ken-ishii-at-yodo-groove\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"https://www.songkick.com/fr/metro-areas/30717-japan-tokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/design\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/genre/comedy\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"https://www.songkick.com/pt/metro-areas/30717-japan-tokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/2226879-zakoenji-public-theatre\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4206089-coaster\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42734744-kattun-at-zozo-marine-stadium\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/genre/funk-soul\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/358446-club-goodman\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4398216-or\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42843025-ryo-yoshinaga-at-jz-brat\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/181073-shibuya-cyclone\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4617666-toyota-arena-tokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42852424-geekernatsumi-at-meets\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/festivals/3755763-bloodflowers-fest/id/42859660-bloodflowers-fest-2025\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/1187776-meets\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42370094-pixies-at-ex-theater-roppongi\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"https://www.songkick.com/metro-areas/30717-japan-tokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42807246-don-diablo-at-zerotokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/2026\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42827879-axmo-de-at-zouk-tokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42681950-sanghee-at-unknown-venue\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/app\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/jobs\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4461471-shinjuku-nine-spices\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/genre/latin\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/2422774-ex-theater-roppongi\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/756086-live-house-fever\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42786950-teip-trio-at-jazz-spot-candy\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42748261-synchre-at-shinjuku-nine-spices\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/en/metro-areas/30717-japan-tokyo?page=2#metro-area-calendar\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42845726-don-darkoe-at-ohjo-bldg\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/79453-earthdom\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42845599-jackson-wang-at-toyota-arena-tokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/77054-club-quattro-kurabukuatoro\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/genre/classical\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/1069706-tokyo-dome\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/festivals/3750228-tokyo-halloween/id/42800784-tokyo-halloween-festival-2025\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/genre/reggae\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4623345-yodo-groove\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42766687-siirene-at-mod\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42844586-butcher-brown-at-blue-note-tokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"https://twitter.com/songkick\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42812239-islandman-at-siva-studio\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42645816-lettuce-at-duo-music-exchange\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/genre/jazz\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42822491-teip-trio-at-oriental-force\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4493284-zerotokyo\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/december-2025\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/en/metro-areas/30717-japan-tokyo?page=3#metro-area-calendar\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42850146-seb-wildblood-at-nettaiya\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4596404-ohjo-bldg\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/tonight\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42831092-shingo-nakamura-at-or\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42789665-appi-at-shinjuku-nine-spices\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42347888-charli-jordan-chamberlain-at-shibuya-www\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"https://www.emp.co.uk/band-merch/\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42812238-islandman-at-flowers-loft\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/venues/4010579-otooto\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/metro-areas/30717-japan-tokyo/genre/indie-alternative\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/concerts/42842577-ken-ishii-at-ohjo-bldg\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "scroll": {
+          "y": 7012
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  },
+  {
+    "url": "https://www.songkick.com/metro-areas/30717-japan-tokyo",
+    "actions": [
+      {
+        "click": {
+          "selector": "a[href=\"/info/guidelines\"]"
+        }
+      }
+    ],
+    "dom_signature": "690b4cd6e14d7dedd3e10ab58096e28ee11ad4ea818db1a8286edd13178cfd98"
+  }
+]
